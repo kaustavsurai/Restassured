@@ -1,4 +1,4 @@
-@Test
+
 Feature: Test Rest Features
   Scenario: Usage of Get and JSon Path
     Given I hit api "http://ergast.com/api/f1/2017/circuits.json" with query parameter "" query parameter value ""  path parameter ""
